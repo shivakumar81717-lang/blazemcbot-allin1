@@ -64,4 +64,4 @@ async def on_message(message: discord.Message):
 
     user_id = str(message.author.id)
     user_levels[user_id] = user_levels.get(user_id, 0) + 1
-    user_coins[user_id] = user_coins.get(user_id
+    user_coins[user_id] = user_coins.get(user_id, 0) + 1
