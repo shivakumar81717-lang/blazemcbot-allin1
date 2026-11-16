@@ -14,7 +14,7 @@ MC_IP = "play.blazemc.space"
 MC_PORT = 25565
 RCON_PORT = 25575
 RCON_PASSWORD = "YOUR_RCON_PASSWORD"   # server.properties wala RCON password
-STATUS_CHANNEL_ID = 123456789012345678 # Apne Status Channel ki ID dalein (bina quotes ke)
+STATUS_CHANNEL_ID = 1571889388642631770 # Apne Status Channel ki ID dalein (bina quotes ke)
 
 # Intents Setup
 intents = discord.Intents.default()
