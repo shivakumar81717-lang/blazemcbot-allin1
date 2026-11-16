@@ -1,1 +1,5 @@
 discord.py>=2.4.0
+mcstatus
+mcrcon
+yt-dlp
+PyNaCl
